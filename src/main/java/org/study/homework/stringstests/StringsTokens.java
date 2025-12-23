@@ -1,4 +1,4 @@
-package src.main.java.study.StringsTests;
+package org.study.homework.stringstests;
 
 import java.util.Arrays;
 import java.util.Scanner;

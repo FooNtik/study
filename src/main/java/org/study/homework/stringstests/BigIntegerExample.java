@@ -1,9 +1,9 @@
-package src.main.java.study.StringsTests;
+package org.study.homework.stringstests;
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class BigIntegerTest {
+public class BigIntegerExample {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     BigInteger a = new BigInteger(scanner.nextLine());

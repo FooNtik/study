@@ -1,4 +1,4 @@
-package src.main.java.homework;
+package org.study.homework;
 
 import java.io.*;
 import java.math.*;

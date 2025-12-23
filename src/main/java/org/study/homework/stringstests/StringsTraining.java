@@ -1,4 +1,4 @@
-package src.main.java.study.StringsTests;
+package org.study.homework.stringstests;
 
 public class StringsTraining {
   public static void main(String[] args) {

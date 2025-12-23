@@ -24,16 +24,18 @@ dependencies {
 
     implementation 'org.apache.logging.log4j:log4j-api:2.25.3'
     implementation 'org.apache.logging.log4j:log4j-core:2.25.3'
+
+    implementation "org.apache.commons:commons-configuration2:2.11.0"
+    implementation "commons-beanutils:commons-beanutils:1.9.4"
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(17)
+        languageVersion = JavaLanguageVersion.of(21)
     }
 }
 
 application {
     // Define the main class for the application.
-    mainClass = 'org.example.App'
 }

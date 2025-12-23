@@ -1,4 +1,4 @@
-package src.main.java.study.vasko;
+package org.study.homework.vasko;
 
 public class _02_Operators {
   public static void main(String[] args) {

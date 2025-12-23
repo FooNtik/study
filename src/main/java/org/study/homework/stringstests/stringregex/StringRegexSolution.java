@@ -1,4 +1,4 @@
-package src.main.java.study.StringsTests.StringRegex;
+package org.study.StringsTests.StringRegex;
 
 import java.util.Scanner;
 
